@@ -78,7 +78,6 @@
       }
 
       #bookVdo {
-    transform: rotateZ(90deg);
     width: 750px;
     height: 700px;
   }
